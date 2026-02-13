@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    text-align: center;
+  }
+  
+  .banner {
+    font-family: Verdona;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+  }
+  
+  .download {
+    color: aquamarine;
+    font-size: 16px;
+  }
+
+  .travel{
+    font-family: Verdona;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+  }
+
+  .travel2{
+    font-family: Verdona;
+    font-size: 21px;
+    color: gray;
+  }
+
+  .phone{
+    margin-top: 20px;
+    color: white;
+    font-size: 42px;
+  }
+
+  .bottom{
+    color: aquamarine;
+    font-size: 16px;
+  }
+
+  .footer{
+    justify-content: flex-end;
+    color: gray;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  
+  }
+  
